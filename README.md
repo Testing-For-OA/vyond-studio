@@ -1,2 +1,2 @@
-# vyond-studio
-a goanimate website for business
+# vyond-studio.github.io
+a goanimate website for business made using github
